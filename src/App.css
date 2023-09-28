@@ -312,10 +312,12 @@ border-color: transparent;
   }
   
   /************ Skills Css ************/
-  /* .skill {
+ .skill {
     padding: 0 0 50px 0;
     position: relative;
     }
+
+     
     .skill-bx {
     background: #151515;
     border-radius: 64px;
@@ -349,7 +351,7 @@ border-color: transparent;
     bottom: 0;
     width: 40%;
     z-index: -4;
-    } */
+    } 
     
         /************ Projects Css ************/
     /* .project {
