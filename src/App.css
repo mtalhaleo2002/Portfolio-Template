@@ -354,7 +354,7 @@ border-color: transparent;
     } 
     
         /************ Projects Css ************/
-    /* .project {
+    .project {
     padding: 80px 0;
     position: relative;
     background-color: black;
@@ -459,7 +459,7 @@ border-color: transparent;
     opacity: 1;
     }
     .proj-txtx h4 {
-    font-size: 30px;
+     font-size: 30px; 
     font-weight: 700;
     letter-spacing: 0.8px;
     line-height: 1.1em;
@@ -477,7 +477,7 @@ border-color: transparent;
     width: 35%;
     right: 0;
     z-index: -4;
-    } */
+    } 
     
     /************ Projects Css ************/
     /* .contact {
