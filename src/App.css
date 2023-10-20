@@ -480,7 +480,7 @@ border-color: transparent;
     } 
     
     /************ Projects Css ************/
-    /* .contact {
+     .contact {
     background: linear-gradient(90.21deg, #AA367C -5.91%, #4A2FBD 111.58%);
     padding: 60px 0 200px 0;
     }
@@ -549,10 +549,10 @@ border-color: transparent;
     }
     .contact form button:hover::before {
     width: 100%;
-    } */
+    } 
 
      /************ Footer Css ************/
-    /* .footer {
+     .footer {
     padding: 0 0 50px 0;
     background-image: url('./assets/img/footer-bg.png');
     background-position: center center;
@@ -629,5 +629,3 @@ border-color: transparent;
     letter-spacing: 0.5px;
     margin-top: 20px;
     }
-
-    */
